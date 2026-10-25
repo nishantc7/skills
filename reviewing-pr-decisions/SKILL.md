@@ -293,6 +293,13 @@ Two cards that ask the same question become one card. A true point that is not
 a decision, such as a stale comment, goes in a collapsed "Smaller things I
 noticed".
 
+**Group a large PR by path.** When there are more than five cards, put each
+card under the numbered path from step 3 that it belongs to. The page then has
+the same shape as the flowcharts, and the reader can take one path at a time.
+Order the groups by their highest-ranked card, and rank the cards inside each
+group with the list above. A card that belongs to no path goes in a last group,
+"Across the change". Number the cards in page order.
+
 ### 9. Emit the review
 
 Publish as soon as steps 1–8 are done; the cards never wait for the second

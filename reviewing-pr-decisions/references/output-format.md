@@ -107,7 +107,12 @@ quietly**, **Now depends on**. A row with a genuine nothing prints `none`.
 
 ## 8. What you need to decide — every decision, ranked
 
-One card per decision, ranked. Each card:
+One card per decision, ranked. With more than five cards, group them by path:
+a sub-heading per path, using the same number and name as in section 6
+("1. A customer pays at checkout"), then that path's cards. Cards that belong to
+no path go last, under "Across the change". Number the cards in page order.
+
+Each card:
 
 **Kind tag** — a small label above the heading: the taxonomy category, then a
 few words, for example `Numbers · rounding` or `Edge case · retry`.
