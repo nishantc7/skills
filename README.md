@@ -9,7 +9,7 @@ one question each, and renders them as an HTML page. It never says whether to
 merge. A second agent hunts for security and performance defects in the same
 diff. See `reviewing-pr-decisions/example-review.html` for a sample page.
 
-Why I built it: [Code review after coding agents](https://nishantc7.github.io/writing/2026/10/26/code-review-after-coding-agents/).
+Why I built it: [Code review after coding agents](https://nishantc7.github.io/writing/2026/10/25/code-review-after-coding-agents/).
 
 Needs the [GitHub CLI](https://cli.github.com/) (`gh`), logged in.
 
